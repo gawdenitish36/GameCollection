@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GameCollection", "GameCollection\GameCollection.vbproj", "{2592D34C-38FC-4CFD-8493-B596CE141F55}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dots", "..\Final Game\dots\dots\dots.vbproj", "{815CCD20-FCE8-4C7D-8710-14B164122B0D}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dots", "dots\dots.vbproj", "{815CCD20-FCE8-4C7D-8710-14B164122B0D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Shooter", "..\Final Game\Shooter\Shooter\Shooter.vbproj", "{20C58716-D44C-4540-8CA2-63D20740C204}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Shooter", "Shooter\Shooter.vbproj", "{20C58716-D44C-4540-8CA2-63D20740C204}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ultimate Treasure Hunt", "..\Final Game\Ultimate Treasure Hunt\Ultimate Treasure Hunt\Ultimate Treasure Hunt.vbproj", "{7C34FB3F-8DCB-4689-AE83-65A941623156}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ultimate Treasure Hunt", "Ultimate Treasure Hunt\Ultimate Treasure Hunt.vbproj", "{7C34FB3F-8DCB-4689-AE83-65A941623156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
