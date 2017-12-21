@@ -1,0 +1,7 @@
+* When player place the last line of a single box the box is his\her.
+
+* The player move turn by turn but whenever a player takes a box he must move again.
+
+* The board game ends when all boxes have been taken.
+
+* The player with the most boxes wins.
